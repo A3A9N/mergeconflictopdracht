@@ -5,3 +5,9 @@
 }
 
 module.exports = {greet};
+
+function greet()
+{
+    let greeting="i came or you came!";
+    console.log(greeting);
+}

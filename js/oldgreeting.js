@@ -5,3 +5,9 @@
 }
 
 module.exports = {greet};
+
+function greet()
+{
+    let greeting="Nu kom je bij een bloementuin";
+    console.log(greeting);
+}
